@@ -31,5 +31,5 @@ You have been contracted by the British Ministry of Adolescent Relationships to 
 ## Examples:
 
 #### Translate Link: http://api.giphy.com/v1/gifs/translate?s=superman%20awesome&api_key=dc6zaTOxFJmzC
-#### Gif: http://giphy.com/gifs/fight-scene-piu3d91c4ick8
+#### Gif: http://media4.giphy.com/media/piu3d91c4ick8/200.gif
 #### Still: http://media4.giphy.com/media/piu3d91c4ick8/giphy_s.gif
