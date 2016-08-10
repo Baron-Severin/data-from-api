@@ -9,12 +9,19 @@ public class GiphyImages {
 
     @SerializedName("original_still")
     private OriginalStill originalStill;
+    @SerializedName("original")
+    private OriginalGif originalGif;
 
-    public GiphyImages(OriginalStill originalStill) {
+    public GiphyImages(OriginalStill originalStill, OriginalGif originalGif) {
         this.originalStill = originalStill;
+        this.originalGif = originalGif;
     }
 
     public OriginalStill getOriginalStill() {
         return originalStill;
+    }
+
+    public OriginalGif getOriginalGif() {
+        return originalGif;
     }
 }

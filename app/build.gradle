@@ -31,4 +31,7 @@ dependencies {
 
     // gson
     compile 'com.google.code.gson:gson:2.6.2'
+
+    // ion
+    compile 'com.koushikdutta.ion:ion:2.+'
 }
